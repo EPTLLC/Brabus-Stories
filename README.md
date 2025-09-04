@@ -11,21 +11,19 @@ Telegram: https://t.me/easyprotech
 
 **A Collection of Short Fiction**
 
+**English | [Русский](README.ru.md)**
+
 ![Stories](https://img.shields.io/badge/Stories-8-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
-![Author](https://img.shields.io/badge/Author-Brabus-black) ![Company](https://img.shields.io/badge/Company-EasyProTech%20LLC-blue) ![License](https://img.shields.io/badge/License-GPLv3%20%7C%20Commercial-orange) ![Platform](https://img.shields.io/badge/Platform-Any%20Reader-lightgrey)
+![Author](https://img.shields.io/badge/Author-Brabus-black) ![Company](https://img.shields.io/badge/Company-EasyProTech%20LLC-blue) ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%20%7C%20Commercial-orange) ![Platform](https://img.shields.io/badge/Platform-Any%20Reader-lightgrey)
 
 ---
 
-Hey there. I'm Brabus. You might know me from cybersecurity tools, penetration testing frameworks, or enterprise-grade security solutions. But beyond the code, beyond the terminals and exploits, there are stories that demand to be told.
-
-These eight pieces explore the spaces between—between memory and loss, between human and machine, between what we build and what builds us. Each story stands alone, yet together they form something larger: a meditation on connection, isolation, and the weight of choices that echo across time.
-
-No APIs. No dependencies. Just words, arranged with the same precision I bring to code.
-
-Welcome to the other side of my work.
+I am Brabus.
+I work where code becomes systems and where precision matters more than words.
+I write prose when I need to say what code cannot express.
 
 ---
 
@@ -77,8 +75,11 @@ Each story is available in both English and Russian. Click the links above to re
 ## License
 
 These stories are released under a dual licensing model:
-- **GPLv3** for non-commercial and open-source use
-- **Commercial License** available for commercial applications
+- **[Creative Commons BY-NC-SA 4.0](LICENSE)** for non-commercial use
+- **[Commercial License](LICENSE-COMMERCIAL)** for commercial applications
+
+**Non-Commercial Use:** Free under Creative Commons - share, adapt, but give credit and keep non-commercial.  
+**Commercial Use:** Requires separate licensing for publishing, adaptation, distribution, or any revenue-generating use.
 
 For commercial licensing inquiries: [https://t.me/easyprotech](https://t.me/easyprotech)
 
@@ -86,10 +87,15 @@ For commercial licensing inquiries: [https://t.me/easyprotech](https://t.me/easy
 
 ## About
 
-**Brabus** | **EasyProTech LLC**  
-Cybersecurity Professional | Software Architect | Storyteller
+<div align="center">
+  <img src="b1.jpg" alt="Brabus - Author" width="200" height="200" style="border-radius: 50%; margin: 20px 0;">
+</div>
 
-When not building security frameworks or hunting vulnerabilities, I write. These stories represent the human side of a mind that usually thinks in code and exploits.
+**Brabus** | **EasyProTech LLC**  
+
+I build systems to work.
+I write stories for myself.
+Both are about truth hidden deeper than the surface.
 
 **Contact:** [https://t.me/easyprotech](https://t.me/easyprotech)  
 **Company:** [www.easypro.tech](https://www.easypro.tech)
