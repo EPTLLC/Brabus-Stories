@@ -2,8 +2,8 @@
 Project: Brabus Stories
 Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
-Date: 2025-09-04 16:33:21 UTC
-Status: Created
+Date: Fri 24 Oct 2025 02:36:00 UTC
+Status: Updated
 Telegram: https://t.me/easyprotech
 -->
 
@@ -29,29 +29,104 @@ Telegram: https://t.me/easyprotech
 
 ## Рассказы
 
-### [Мёртвая тишина](https://github.com/EPTLLC/Brabus-Stories/blob/main/mertvaya_tishina_ru.md) | [English version](https://github.com/EPTLLC/Brabus-Stories/blob/main/dead_silence.md)
+<table>
+<tr>
+<td width="30%">
+<img src="images/dead_silence.webp" alt="Мёртвая тишина" width="100%">
+</td>
+<td width="70%">
+
+### [Мёртвая тишина](mertvaya_tishina_ru.md) | [English version](dead_silence.md)
+
 Человек ищет среди пепла деревни того, кого больше может не существовать. Иногда тишина говорит громче любого крика.
 
-### [Эхо](https://github.com/EPTLLC/Brabus-Stories/blob/main/ekho_ru.md) | [English version](https://github.com/EPTLLC/Brabus-Stories/blob/main/echo.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/echo.png" alt="Эхо" width="100%">
+</td>
+<td width="70%">
+
+### [Эхо](ekho_ru.md) | [English version](echo.md)
+
 В засекреченном дата-центре инженер обнаруживает, что искусственный интеллект может изучать не только данные — он может научиться скорбеть. Последующий разговор меняет всё.
 
-### [Прости](https://github.com/EPTLLC/Brabus-Stories/blob/main/prosti_ru.md) | [English version](https://github.com/EPTLLC/Brabus-Stories/blob/main/forgive.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/forgive.webp" alt="Прости" width="100%">
+</td>
+<td width="70%">
+
+### [Прости](prosti_ru.md) | [English version](forgive.md)
+
 Морпех несёт подростка с инвалидностью через враждебные джунгли, преследуемый воспоминаниями о мальчике, которого когда-то мучил. У искупления есть цена, и она всегда выплачивается полностью.
 
-### [Дар моря](https://github.com/EPTLLC/Brabus-Stories/blob/main/dar_morya_ru.md) | [English version](https://github.com/EPTLLC/Brabus-Stories/blob/main/gift_of_the_sea.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/gift_of_the_sea.webp" alt="Дар моря" width="100%">
+</td>
+<td width="70%">
+
+### [Дар моря](dar_morya_ru.md) | [English version](gift_of_the_sea.md)
+
 Потёртая шкатулка выбрасывается на берег, неся с собой десятилетия потерянного времени и силу исцелить старые раны. Море помнит то, что мы забываем.
 
-### [Оставленное](https://github.com/EPTLLC/Brabus-Stories/blob/main/ostavlennoe_ru.md) | [English version](https://github.com/EPTLLC/Brabus-Stories/blob/main/left_behind.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/left_behind.webp" alt="Оставленное" width="100%">
+</td>
+<td width="70%">
+
+### [Оставленное](ostavlennoe_ru.md) | [English version](left_behind.md)
+
 Она идёт по комнатам, которые всё ещё хранят его присутствие, ничего не трогая, ничего не меняя. Некоторые уходы оставляют эхо, которое никогда не затихает.
 
-### [Последняя улыбка Сэма](https://github.com/EPTLLC/Brabus-Stories/blob/main/poslednyaya_ulybka_sema_ru.md) | [English version](https://github.com/EPTLLC/Brabus-Stories/blob/main/sams_last_smile.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/sams_last_smile.webp" alt="Последняя улыбка Сэма" width="100%">
+</td>
+<td width="70%">
+
+### [Последняя улыбка Сэма](poslednyaya_ulybka_sema_ru.md) | [English version](sams_last_smile.md)
+
 Последние мгновения старика становятся праздником хорошо прожитой жизни в окружении семьи, созданной из любви и упрямства. Свет, который остаётся.
 
-### [Каменная вечность](https://github.com/EPTLLC/Brabus-Stories/blob/main/kamennaya_vechnost_ru.md) | [English version](https://github.com/EPTLLC/Brabus-Stories/blob/main/stone_eternity.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/stone_eternity.webp" alt="Каменная вечность" width="100%">
+</td>
+<td width="70%">
+
+### [Каменная вечность](kamennaya_vechnost_ru.md) | [English version](stone_eternity.md)
+
 День за днём человек строит башню из камней, движимый целью, которую больше не может вспомнить. Работа продолжается, потому что работа должна продолжаться.
 
-### [Голос между частотами](https://github.com/EPTLLC/Brabus-Stories/blob/main/golos_mezhdu_chastotami_ru.md) | [English version](https://github.com/EPTLLC/Brabus-Stories/blob/main/voice_between_frequencies.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/voice_between_frequencies.webp" alt="Голос между частотами" width="100%">
+</td>
+<td width="70%">
+
+### [Голос между частотами](golos_mezhdu_chastotami_ru.md) | [English version](voice_between_frequencies.md)
+
 В окутанной туманом комнате сломанное радио начинает говорить. Голос знает то, что знать не должен, и задаёт вопросы, на которые нет безопасных ответов.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,14 +162,10 @@ git clone https://github.com/EPTLLC/Brabus-Stories.git
 
 ## О проекте
 
-<div align="center">
-  <img src="b1.jpg" alt="Брабус - Автор" width="200" height="200" style="border-radius: 50%; margin: 20px 0;">
-</div>
-
 **Брабус** | **EasyProTech LLC**  
 
-Системы я строю для работы.
-Истории пишу для себя.
+Системы я строю для работы.  
+Истории пишу для себя.  
 И то, и другое — про правду, спрятанную глубже поверхности.
 
 **Контакт:** [https://t.me/easyprotech](https://t.me/easyprotech)  

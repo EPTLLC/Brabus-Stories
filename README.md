@@ -2,8 +2,8 @@
 Project: Brabus Stories
 Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
-Date: 2025-09-04 16:33:21 UTC
-Status: Created
+Date: Fri 24 Oct 2025 02:36:00 UTC
+Status: Updated
 Telegram: https://t.me/easyprotech
 -->
 
@@ -29,29 +29,104 @@ I write prose when I need to say what code cannot express.
 
 ## Stories
 
-### [Dead Silence](https://github.com/EPTLLC/Brabus-Stories/blob/main/dead_silence.md) | [Русская версия](https://github.com/EPTLLC/Brabus-Stories/blob/main/mertvaya_tishina_ru.md)
+<table>
+<tr>
+<td width="30%">
+<img src="images/dead_silence.webp" alt="Dead Silence" width="100%">
+</td>
+<td width="70%">
+
+### [Dead Silence](dead_silence.md) | [Русская версия](mertvaya_tishina_ru.md)
+
 A man searches through the ashes of a village for someone who may no longer exist. Sometimes the silence speaks louder than any scream.
 
-### [Echo](https://github.com/EPTLLC/Brabus-Stories/blob/main/echo.md) | [Русская версия](https://github.com/EPTLLC/Brabus-Stories/blob/main/ekho_ru.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/echo.png" alt="Echo" width="100%">
+</td>
+<td width="70%">
+
+### [Echo](echo.md) | [Русская версия](ekho_ru.md)
+
 In a classified data center, an engineer discovers that artificial intelligence can learn more than just data—it can learn to grieve. The conversation that follows changes everything.
 
-### [Forgive](https://github.com/EPTLLC/Brabus-Stories/blob/main/forgive.md) | [Русская версия](https://github.com/EPTLLC/Brabus-Stories/blob/main/prosti_ru.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/forgive.webp" alt="Forgive" width="100%">
+</td>
+<td width="70%">
+
+### [Forgive](forgive.md) | [Русская версия](prosti_ru.md)
+
 A marine carries a disabled teenager through hostile jungle, haunted by memories of the boy he once tormented. Redemption has a price, and it's always paid in full.
 
-### [Gift of the Sea](https://github.com/EPTLLC/Brabus-Stories/blob/main/gift_of_the_sea.md) | [Русская версия](https://github.com/EPTLLC/Brabus-Stories/blob/main/dar_morya_ru.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/gift_of_the_sea.webp" alt="Gift of the Sea" width="100%">
+</td>
+<td width="70%">
+
+### [Gift of the Sea](gift_of_the_sea.md) | [Русская версия](dar_morya_ru.md)
+
 A weathered jewelry box washes ashore, carrying with it decades of lost time and the power to heal old wounds. The sea remembers what we forget.
 
-### [Left Behind](https://github.com/EPTLLC/Brabus-Stories/blob/main/left_behind.md) | [Русская версия](https://github.com/EPTLLC/Brabus-Stories/blob/main/ostavlennoe_ru.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/left_behind.webp" alt="Left Behind" width="100%">
+</td>
+<td width="70%">
+
+### [Left Behind](left_behind.md) | [Русская версия](ostavlennoe_ru.md)
+
 She walks through rooms that still hold his presence, touching nothing, changing nothing. Some departures leave echoes that never fade.
 
-### [Sam's Last Smile](https://github.com/EPTLLC/Brabus-Stories/blob/main/sams_last_smile.md) | [Русская версия](https://github.com/EPTLLC/Brabus-Stories/blob/main/poslednyaya_ulybka_sema_ru.md)
-An old man's final moments become a celebration of a life well-lived, surrounded by the family he built from love and stubbornness. Light that stays.
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/sams_last_smile.webp" alt="Sam's Last Smile" width="100%">
+</td>
+<td width="70%">
 
-### [Stone Eternity](https://github.com/EPTLLC/Brabus-Stories/blob/main/stone_eternity.md) | [Русская версия](https://github.com/EPTLLC/Brabus-Stories/blob/main/kamennaya_vechnost_ru.md)
+### [Sam's Last Smile](sams_last_smile.md) | [Русская версия](poslednyaya_ulybka_sema_ru.md)
+
+An old man's final moments become a celebration of a life well-lived, surrounded by the family he built from love and stubbornness. The light that stays.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/stone_eternity.webp" alt="Stone Eternity" width="100%">
+</td>
+<td width="70%">
+
+### [Stone Eternity](stone_eternity.md) | [Русская версия](kamennaya_vechnost_ru.md)
+
 Day after day, a man builds a tower from stones, driven by a purpose he can no longer remember. The work continues because the work must continue.
 
-### [Voice Between Frequencies](https://github.com/EPTLLC/Brabus-Stories/blob/main/voice_between_frequencies.md) | [Русская версия](https://github.com/EPTLLC/Brabus-Stories/blob/main/golos_mezhdu_chastotami_ru.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/voice_between_frequencies.webp" alt="Voice Between Frequencies" width="100%">
+</td>
+<td width="70%">
+
+### [Voice Between Frequencies](voice_between_frequencies.md) | [Русская версия](golos_mezhdu_chastotami_ru.md)
+
 In a fog-shrouded room, a broken radio begins to speak. The voice knows things it shouldn't know, and asks questions that have no safe answers.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,14 +162,10 @@ For commercial licensing inquiries: [https://t.me/easyprotech](https://t.me/easy
 
 ## About
 
-<div align="center">
-  <img src="b1.jpg" alt="Brabus - Author" width="200" height="200" style="border-radius: 50%; margin: 20px 0;">
-</div>
-
 **Brabus** | **EasyProTech LLC**  
 
-I build systems to work.
-I write stories for myself.
+I build systems to work.  
+I write stories for myself.  
 Both are about truth hidden deeper than the surface.
 
 **Contact:** [https://t.me/easyprotech](https://t.me/easyprotech)  

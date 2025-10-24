@@ -59,11 +59,11 @@ Flashback: At the diner. Anna catches Leon: You can be better. He looks: I love 
 
 Flashback: Father's empty apartment. Leon looks at Anna's photo. Dusty piano, bottles on floor. Father dead. He writes on a scrap of paper: Forgive. Puts it in envelope with photo, goes to army.
 
-Dawn water collection time. Leon quenched his thirst and handed the flask to the awakened teenager, smiled sincerely for the first time in days, seeing how joyfully he pounced on the water.
+Dawn water collection time. Leon quenched his thirst and handed the flask to the awakened teenager, smiled sincerely for the first time in days, seeing how joyfully he drank the water.
 
 ## Day 5
 
-Dusty plain. Helicopter lands, raising sand. Leon, bloodied, drags the teenager. Marines shout: Load up! Medics pull the teenager. Ryan, senior marine, nods: You did it, Leo.
+Dusty plain. Helicopter lands, raising sand. Leon, bloodied, drags the teenager. Marines shout: Load up! Medics lift the teenager. Ryan, senior marine, nods: You did it, Leo.
 
 Leon hands over the teenager, their eyes meet. He squeezes his hand. Steps back. Leon turns, catching a glint somewhere in the distance. Gunshot. Leon falls, marines drag his body into the helicopter...
 
@@ -73,7 +73,7 @@ Flashback: Oscar looks at flowers, ribbon with Thank You. Anna touches Leon's ha
 
 Night. Chaos, stretchers. Anna in medical uniform saves the teenager. Face tired, hair carelessly gathered. Clock ticks like Irena's. She sees the drawing in his hand, lines, face. Pulls back the sheet, sees Leon.
 
-Ryan, eyes tired, approaches. Are you Anna? Leo talked about you. About his mother who died. About the kid with cerebral palsy he bullied. He remembered them all the time. Hands over a crumpled envelope: This was with him. Anna opens: letter, Forgive, photo, she's smiling, photo booth, edges bent. Anna nods, clutching the envelope. Clock ticks. Inside, silence remained. And with it—peace.
+Ryan, eyes tired, approaches. Are you Anna? Leon spoke about you. About his mother who died. About the kid with cerebral palsy he bullied. He remembered them all the time. Hands over a crumpled envelope: This was with him. Anna opens: letter, Forgive, photo, she's smiling, photo booth, edges bent. Anna nods, clutching the envelope. Clock ticks. Inside, silence remained. And with it—peace.
 
 ## Epilogue
 

@@ -23,4 +23,4 @@ Grandmother took the box, still smiling, but her gaze suddenly froze. Fingers sl
 
 They entered the house together. Masha chattered about the sea, about how she found the box, and Anna Petrovna listened, holding her hand. At sunset they sat on the veranda, sipping herbal tea, and the box stood on the table, as if connecting past and present. Anna Petrovna decided that now it would store letters she would write for Masha - so that someday, years later, her granddaughter could also touch memory.
 
-The sea outside the window continued its eternal dance, whispering new stories. And somewhere in its depths, perhaps, the next gift was already waiting - for those who still believe the sea can return what time once stole.
+The sea outside the window continued its eternal dance, whispering new stories. And somewhere in its depths, perhaps, the next gift was already waiting - for those who know how to see miracles.
