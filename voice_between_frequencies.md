@@ -9,9 +9,9 @@ Telegram: https://t.me/easyprotech
 
 # Voice Between Frequencies
 
-The room was cramped, with the ceiling pressing on his shoulders, soaked with dampness and the smell of burnt coffee. The dust-caked window bled murky light across chipped linoleum. In the corner - a table, cluttered with empty tea cans and crumpled cigarette butts. In the middle of the table stood a radio receiver - old, with a cracked case, with an antenna crooked like a finger pointing nowhere.
+The room was cramped, with the ceiling pressing on his shoulders, soaked with dampness and the smell of burnt coffee. The dust-caked window bled murky light across chipped linoleum. In the corner - a table, cluttered with empty tea cans and crumpled cigarette butts. In the middle of the table stood a radio receiver - old, with a cracked case, with an antenna crooked like a finger pointing nowhere. A dusty cord hung from the table, ending in nothing - as if the radio lived on its own.
 
-He sat on a wobbly chair, smoked, flicking ash into a cracked plate. Outside the window - emptiness. A field scattered with gravel, and beyond - a wall of fog, dense as condensed milk. Where was this place? He didn't ask. Didn't want to know. He just found himself here - with this table, this radio, this chair. Nothing to do except smoke and turn the dial.
+He sat on a wobbly chair, smoked, flicking ash into a cracked plate. Outside the window - emptiness. A field scattered with gravel, and beyond - a wall of fog, dense as condensed milk, through which, it seemed to him, sometimes one could discern the outlines of some structures. Where was this place? He didn't ask. Didn't want to know. Did he remember the road here - the blurry train, voices in his head, or had it been erased, like old films? He just found himself here - with this table, this radio, this chair. Nothing to do except smoke and turn the dial.
 
 The receiver had been silent for a week. No noise, no voices, no static - only silence, as if the world outside was turned off. He turned the dial out of habit, without hope. His fingers, yellow from nicotine, slid across worn plastic. The needle trembled, but sound wasn't born. He inhaled, released smoke, leaned back. Eyes half-closed. Silence.
 
@@ -33,7 +33,7 @@ He stood, approached the door. The handle was cold as ice. The lock was in place
 
 - You avoid the mirror. The one in the corner, under cloth. But yesterday you looked. Long time. What did you see? Not yourself, right?
 
-Cold gnawed his bones, sweat glazed his forehead. The mirror stood in the corner, covered with old fabric. He hadn't touched it. Hadn't looked. Or had he? Memory tangled like shadows in fog. The voice fell silent, the pause stretched, pressed.
+He clenched his teeth. Cold gnawed his bones, sweat glazed his forehead. The mirror stood in the corner, covered with old fabric. He hadn't touched it. Hadn't looked. Or had he? Memory tangled like shadows in fog. The voice fell silent, the pause stretched, pressed.
 
 - Nothing scary, - it said finally. - These are just thoughts. They come. They go. But you know they're not yours. Whose then?
 
@@ -43,14 +43,14 @@ He hit the table. Cans clinked, the plate with ash overturned. Ash scattered lik
 
 He stared at the receiver. His hand reached for the dial, froze. The voice knew. He wouldn't turn it off. Wouldn't break it. Couldn't.
 
-- I'll stay, - the voice said. - Tomorrow. Day after. When you want to listen. And you will want to.
+- I'll stay, - the voice said. - Tomorrow. Day after. Forever. If you want to listen - you'll hear me. And you will want to.
 
-Rustle. Silence. The radio fell silent. The needle froze. He sat, staring at the antenna, at the crack in the case. The cigarette burned out, burned his fingers. He didn't notice.
+Rustle. Silence. The radio fell silent. The needle froze. He sat, staring at the antenna, at the crack in the case. At the dusty cord hanging from the table, ending in nothing. The cigarette burned his fingers. He didn't notice.
 
-Outside the fog thickened. The room smelled of dampness. He reached for the pack, but stopped. He stood, approached the mirror. The cloth hung in place. He raised his hand, froze. His fingers touched the fabric, and it slipped, fell to the floor.
+Like a spiderweb enveloping the room from within, the fog outside the window continued to thicken, becoming matter that could be touched. The room smelled even more of dampness. He reached for the pack, but stopped. Or didn't reach at all. He stood, approached the mirror. The cloth hung in place. He raised his hand, froze. His fingers touched the fabric, unnaturally cold, and it slipped, fell to the floor.
 
-In the mirror was no reflection. Only the room - table, chair, receiver. And a shadow. Not his shadow. It moved, slowly, as if someone stood behind. He turned - nobody. His heart pounded, throat tightened. He returned to the table, collapsed on the chair. His hand reached for the receiver, fingers turned the dial.
+In the mirror was no reflection. His reflection. Only the room - table, chair, receiver. And a shadow. Someone else's. It moved, slowly, as if someone stood behind. He turned - nobody. His heart pounded, throat tightened. He returned to the table, collapsed on the chair. His hand reached for the receiver, fingers turned the dial.
 
-Silence.
+Silence. But in it - breathing. Whose? His? Or the voice whispering inside?
 
-But in silence - a rustle. Barely audible, like breathing. He closed his eyes. The voice didn't return, but he knew: it's here. In the walls. In the mirror. In him. He no longer checked the lock. Didn't look out the window. Didn't take cigarettes. Only turned the dial, day after day, until the fog swallowed even the light.
+But in silence - a rustle. Barely audible, like breathing. Or silence? He closed his eyes. The voice didn't return, but he knew: it's here. In the walls. In the mirror. In him. He no longer checked the lock. Didn't look out the window. Didn't take cigarettes. Only turned the dial, day after day, until the fog swallowed the light, and the voice became his own breathing.
