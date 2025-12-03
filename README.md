@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **English | [Русский](README.ru.md)**
 
-![Stories](https://img.shields.io/badge/Stories-8-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Stories](https://img.shields.io/badge/Stories-9-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
@@ -123,6 +123,18 @@ Day after day, a man builds a tower from stones, driven by a purpose he can no l
 ### [Voice Between Frequencies](voice_between_frequencies.md) | [Русская версия](golos_mezhdu_chastotami_ru.md)
 
 In a fog-shrouded room, a broken radio begins to speak. The voice knows things it shouldn't know, and asks questions that have no safe answers.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/project_728-41.jpg" alt="Project 728-41" width="100%">
+</td>
+<td width="70%">
+
+### [Project 728-41](project_728-41.md) | [Русская версия](proekt_728-41_ru.md)
+
+A being four billion years old watches a blue planet from orbit, remembering the experiment that created humanity. They resisted from the first day. They never stopped. And one child's gaze changed everything.
 
 </td>
 </tr>

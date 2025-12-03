@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-8-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-9-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
@@ -123,6 +123,18 @@ Telegram: https://t.me/easyprotech
 ### [Голос между частотами](golos_mezhdu_chastotami_ru.md) | [English version](voice_between_frequencies.md)
 
 В окутанной туманом комнате сломанное радио начинает говорить. Голос знает то, что знать не должен, и задаёт вопросы, на которые нет безопасных ответов.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/project_728-41.jpg" alt="Проект 728-41" width="100%">
+</td>
+<td width="70%">
+
+### [Проект 728-41](proekt_728-41_ru.md) | [English version](project_728-41.md)
+
+Существо возрастом четыре миллиарда лет смотрит на голубую планету с орбиты, вспоминая эксперимент, создавший человечество. Они сопротивлялись с первого дня. Они не сдавались никогда. И взгляд одного ребёнка изменил всё.
 
 </td>
 </tr>
