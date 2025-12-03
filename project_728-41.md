@@ -9,8 +9,6 @@ Telegram: https://t.me/easyprotech
 
 # Project 728-41
 
-![Project 728-41](images/project_728-41.jpg)
-
 The viewport is cold beneath my fingers. Below — a blue planet, third from a yellow dwarf. I've seen thousands like it. This one was no different. Then.
 
 I close my eyes. Memory obligingly throws up a frame — the smell of acacia smoke, fat crackling on coals. Two and a half million orbits ago. Or yesterday. For me, there's no difference.
