@@ -13,7 +13,7 @@ The viewport is cold beneath my fingers. Below — a blue planet, third from a y
 
 I close my eyes. Memory obligingly throws up a frame — the smell of acacia smoke, fat crackling on coals. Two and a half million orbits ago. Or yesterday. For me, there's no difference.
 
-Four billion Earth years. A billion light-years from here. In my skull — quantum-neural nodes, every nanosecond recorded, any frame accessible instantly. Five embedded superintelligences remember all ten billion years of our species. From the first photosynthesizing division to this very day.
+My age — four billion Earth years. My homeworld is a billion light-years from here. In my skull — quantum-neural nodes, every nanosecond recorded, any frame accessible instantly. Five embedded superintelligences remember all ten billion years of our species. From the first photosynthesizing division to this very day.
 
 But I don't want to remember everything. Memory is not a gift. It's a burden.
 
