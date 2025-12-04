@@ -209,7 +209,7 @@ I can pull any frame from memory. Trillions of nanoseconds. Everything recorded.
 
 But I pull only one.
 
-Night. Fire. An infant in his mother's arms. Eyes — dark, wet. Fire in them. And something else.
+Night. Fire. An infant in his mother's arms. His gaze. Fire in it. And something else.
 
 Can't erase it. Don't want to erase it.
 
