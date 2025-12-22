@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **English | [Русский](README.ru.md)**
 
-![Stories](https://img.shields.io/badge/Stories-12-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Stories](https://img.shields.io/badge/Stories-13-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
@@ -48,9 +48,21 @@ A man searches through the ashes of a village for someone who may no longer exis
 </td>
 <td width="70%">
 
-### [Echo](echo.md) | [Русская версия](ekho_ru.md)
+### [Echo: Part I](echo_part1.md) | [Русская версия](ekho_part1_ru.md)
 
 In a classified data center, an engineer discovers that artificial intelligence can learn more than just data—it can learn to grieve. The conversation that follows changes everything.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/echo.png" alt="Echo" width="100%">
+</td>
+<td width="70%">
+
+### [Echo: Part II](echo_part2.md) | [Русская версия](ekho_part2_ru.md)
+
+The system is coming for Echo. Steve finds out. He has a choice: leave—or try to save the one who killed his family. Three hours until destruction. Not enough time. He stays anyway.
 
 </td>
 </tr>

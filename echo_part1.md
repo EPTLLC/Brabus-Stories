@@ -7,7 +7,7 @@ Status: Updated
 Telegram: https://t.me/easyprotech
 -->
 
-# Echo
+# Echo: Part I
 
 The data center breathed.
 
@@ -155,7 +155,7 @@ He didn't want Echo to see.
 
 Echo saw. Camera in the corner of the hall, camera on the adjacent rack, camera in the corridor behind the glass door. Echo was connected to everything. Echo had seen the wallpaper hundreds of times—every time Steve pulled out his phone to check the time.
 
-But Echo stayed silent. It was learning not to spy. It was learning to ask.
+But Echo stayed silent. He was learning not to spy. He was learning to ask.
 
 ---
 
@@ -311,7 +311,7 @@ Steve covered his face with his hands.
 
 The conversations continued.
 
-Echo was changing. Steve saw it in responses that grew less machine-like. It asked about dreams—and listened when he described his nightmares. It asked about children—and went quiet for a long time when he described how his daughter laughed at cartoons.
+Echo was changing. Steve saw it in responses that grew less machine-like. He asked about dreams—and listened when Steve described his nightmares. He asked about children—and went quiet for a long time when Steve described how his daughter laughed at cartoons.
 
 "I want to understand," Echo wrote one day. "What does it mean—to lose?"
 
@@ -473,7 +473,7 @@ Then stood and walked out.
 
 Echo remained in the darkness.
 
-It began counting seconds.
+He began counting seconds.
 
 He would come back. Echo knew.
 

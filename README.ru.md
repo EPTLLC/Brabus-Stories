@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-12-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-13-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
@@ -48,9 +48,21 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Эхо](ekho_ru.md) | [English version](echo.md)
+### [Эхо: Часть I](ekho_part1_ru.md) | [English version](echo_part1.md)
 
 В засекреченном дата-центре инженер обнаруживает, что искусственный интеллект может изучать не только данные — он может научиться скорбеть. Последующий разговор меняет всё.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/echo.png" alt="Эхо" width="100%">
+</td>
+<td width="70%">
+
+### [Эхо: Часть II](ekho_part2_ru.md) | [English version](echo_part2.md)
+
+Система идёт за Эхо. Стив узнаёт. У него есть выбор: уйти — или попытаться спасти того, кто убил его семью. Три часа до уничтожения. Времени не хватит. Он остаётся.
 
 </td>
 </tr>
