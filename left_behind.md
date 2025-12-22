@@ -3,28 +3,111 @@ Project: Brabus Stories
 Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-09-04 16:09:50 UTC
-Status: Created
+Status: Updated
 Telegram: https://t.me/easyprotech
 -->
 
 # Left Behind
 
-Morning light poured through cracks in the curtains, fell in stripes on the floor. The house was quiet, only somewhere in the wall a clock ticked. She entered without removing her coat, put her bag by the threshold. The door behind closed with a soft click.
+Morning light poured through gaps in the curtains, falling in stripes across the floor. The house was quiet. Only a clock ticked somewhere in the wall.
 
-The living room smelled of dust and something sweet, forgotten. On the table stood a cup, half-drunk, with brown sediment at the bottom. Nearby - a book, open in the middle, the corner of a yellowish page bent. She passed by without looking, but her fingers on the bag clenched.
+She entered without taking off her coat. Set her bag by the door. The door closed behind her with a soft click.
 
-The kitchen met her with cold. The sink was empty, no plates, no crumbs. On the windowsill - a pot with basil, leaves withered, earth cracked. She reached for the faucet but stopped. She took a sponge, dry and hard, ran it across the countertop. Dust gathered in a gray lump. The sponge fell back.
+---
 
-In the hallway - a pair of boots by the wall. One slightly tilted, laces untied. She stepped over them but stumbled on the rug, that same one with the worn pattern. The rug remained lying, crumpled.
+The living room smelled of dust and something sweet, forgotten.
 
-The bedroom was untouched. The bed was made, but the pillow on one side was dented, as if someone had just gotten up. On the nightstand - glasses, folded neatly, lenses dusty. She opened the closet. Hangers clinked, empty, but one shirt hung, wrinkled, with a coffee stain on the cuff. The closet door remained open.
+On the table—a cup, half-finished, with brown residue at the bottom. Beside it—a book, open in the middle, corner of the page folded down.
 
-She returned to the living room, sat on the sofa. Springs creaked. On the armrest - a wool blanket, rolled unevenly, the corner hanging to the floor. She didn't straighten it. Just sat, looking at the light stripes crawling across the room. The clock ticked, but the hands seemed not to move.
+She walked past without looking. But her fingers tightened on the bag strap.
 
-In the bag by the threshold something clinked - keys, coins, doesn't matter. She ignored it. She stood, approached the window, pulled apart the curtains. Light rushed in, sharp, blinding. Outside - the street, wet from recent rain, and the neighbor's dog lazily wandering along the fence. She looked but didn't see.
+---
 
-Back to the table. The book was still there. She took it, ran her finger along the bent page. The paper was rough, slightly yellowed. She closed the book, put it in place. Didn't touch the cup.
+The kitchen greeted her with cold.
 
-The door creaked when she left. She left the bag by the threshold. The lock clicked, and her steps faded on the porch.
+The sink was empty. No dishes, no crumbs. On the windowsill—a pot of basil, leaves withered, soil cracked.
 
-She descended from the porch without looking back. Rain had left puddles on the sidewalk, and her shoes got wet, but she felt nothing. The street was empty, only the neighbor's dog barked in the distance. She reached the corner where they used to turn to the park together. She stopped. The wind brought the smell of wet grass, and for a second it seemed he was nearby, walking slightly ahead, as always. But the sidewalk was empty. She adjusted her coat collar and kept walking, nowhere in mind, everywhere in loss.
+She reached for the faucet, then stopped. Picked up a sponge—dry, stiff—ran it across the counter. Dust gathered into a gray clump.
+
+The sponge fell back.
+
+---
+
+In the hallway—a pair of boots by the wall. One tilted slightly, laces untied.
+
+She stepped over them but stumbled on the rug—that same one, with the worn pattern.
+
+The rug stayed crumpled.
+
+---
+
+The bedroom was untouched.
+
+Bed made, but the pillow on one side was dented, as if someone had just gotten up. On the nightstand—glasses, folded neatly, lenses dusty.
+
+She opened the closet.
+
+Hangers clinked—empty. But one shirt hung there, wrinkled, with a coffee stain on the cuff.
+
+And the smell.
+
+His smell—barely there, almost dissolved into the dust. But it was here. Still here.
+
+She stood motionless until the scent faded completely. Then closed the door.
+
+---
+
+She returned to the living room. Sat on the couch. Springs creaked.
+
+On the armrest—a wool blanket, unevenly folded, corner hanging to the floor.
+
+She didn't straighten it.
+
+Just sat, watching the stripes of light crawl across the room. The clock ticked. The hands didn't seem to move.
+
+---
+
+She stood. Walked to the window. Pulled the curtains apart.
+
+Light flooded in—sharp, blinding. Outside—the street, wet from recent rain. The neighbor's dog ambled lazily along the fence.
+
+She looked but didn't see.
+
+---
+
+Back to the table.
+
+The book still there. She picked it up, ran her finger along the folded page. Paper rough, slightly yellowed.
+
+Closed the book. Put it back.
+
+Didn't touch the cup.
+
+---
+
+The door creaked as she left.
+
+The bag stayed by the threshold.
+
+The lock clicked. Footsteps faded on the porch.
+
+---
+
+She walked down without looking back.
+
+Rain had left puddles on the sidewalk. Her shoes got wet, but she didn't notice.
+
+The street was empty. Only the neighbor's dog barked in the distance.
+
+She reached the corner where they used to turn together toward the park.
+
+Stopped.
+
+The wind brought the smell of wet grass, and for a second she thought—he was there, walking just ahead, like always.
+
+But the sidewalk was empty.
+
+She adjusted her coat collar and walked on.
+
+Not knowing where.
+

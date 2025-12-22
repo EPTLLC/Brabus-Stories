@@ -3,54 +3,213 @@ Project: Brabus Stories
 Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-09-04 16:09:50 UTC
-Status: Created
+Status: Updated
 Telegram: https://t.me/easyprotech
 -->
 
 # Voice Between Frequencies
 
-The room was cramped, with the ceiling pressing on his shoulders, soaked with dampness and the smell of burnt coffee. The dust-caked window bled murky light across chipped linoleum. In the corner - a table, cluttered with empty tea cans and crumpled cigarette butts. In the middle of the table stood a radio receiver - old, with a cracked case, with an antenna crooked like a finger pointing nowhere. A dusty cord hung from the table, ending in nothing - as if the radio lived on its own.
+The room was cramped. The ceiling pressed down on his shoulders, the walls smelled of dampness and something burnt—maybe coffee, maybe something else. The window, crusted with grime, let in murky light. Beyond it—a field strewn with gravel, and further—fog. Dense as milk. Sometimes he thought he saw shapes in it—houses? towers?—but one blink and they vanished.
 
-He sat on a wobbly chair, smoked, flicking ash into a cracked plate. Outside the window - emptiness. A field scattered with gravel, and beyond - a wall of fog, dense as condensed milk, through which, it seemed to him, sometimes one could discern the outlines of some structures. Where was this place? He didn't ask. Didn't want to know. Did he remember the road here - the blurry train, voices in his head, or had it been erased, like old films? He just found himself here - with this table, this radio, this chair. Nothing to do except smoke and turn the dial.
+He didn't remember how he got here.
 
-The receiver had been silent for a week. No noise, no voices, no static - only silence, as if the world outside was turned off. He turned the dial out of habit, without hope. His fingers, yellow from nicotine, slid across worn plastic. The needle trembled, but sound wasn't born. He inhaled, released smoke, leaned back. Eyes half-closed. Silence.
+Didn't remember the road. Didn't remember what came before. Sometimes something surfaced—a blurred platform, someone's voices, a red mitten on wet asphalt—but it broke off before becoming a memory. The mitten. A child's. He didn't know why it kept coming back. He simply found himself here. With this table. With this chair. With this radio.
+
+The receiver sat in the middle of the table—old, with a cracked case and a crooked antenna. A dusty cord hung from the table and ended in nothing. Not cut—just ended. As if the radio lived on its own.
+
+He sat, smoked, flicked ash into a cracked plate. Fingers yellow from nicotine. There was nothing to do but smoke and turn the dial.
+
+The receiver had been silent for a week.
+
+---
 
 And then the radio spoke.
 
-First - a rustle, like wind through dry leaves. Then - a voice. Calm, low, without gender or age. It spoke slowly, as if tasting words.
+First—a rustle. Like wind through dry leaves. Then—a voice. Low, calm, without gender or age. It spoke slowly, as if tasting the words.
 
-- You didn't sleep last night. Lay, stared at the ceiling. Thought about what you lost. About what?
+"You didn't sleep last night."
 
-He froze. The cigarette smoldered, ash fell on the table. The voice was quiet but poured from everywhere - from the walls, from the air. He leaned toward the receiver, peering into the murky scale. The needle froze between frequencies, in emptiness. He touched the dial - the voice didn't waver.
+He froze. The cigarette smoldered, ash falling on the table.
 
-- It doesn't matter, - the voice continued. - Lost or not. But you feel, don't you? Something's wrong. Something slips away.
+"You lay there. Stared at the ceiling. Tried to remember. What exactly?"
 
-He coughed, stubbed out the cigarette, reached for a new one. His hands trembled, but he forced himself to light up, inhale. The voice waited. Didn't rush.
+The voice came from everywhere—from the walls, from the air, from within himself. He leaned toward the receiver. The needle was frozen between frequencies, in the void.
 
-- You checked the lock. Yesterday. Day before. Twice. Why? Nobody here. Or is there?
+"Who are you?"
 
-He stood, approached the door. The handle was cold as ice. The lock was in place, locked. He pulled - no use. He returned, sat. The voice didn't stop.
+The voice didn't answer. Instead:
 
-- You avoid the mirror. The one in the corner, under cloth. But yesterday you looked. Long time. What did you see? Not yourself, right?
+"A name. You almost remembered it yesterday. Repeat... repeat... Whose?"
 
-He clenched his teeth. Cold gnawed his bones, sweat glazed his forehead. The mirror stood in the corner, covered with old fabric. He hadn't touched it. Hadn't looked. Or had he? Memory tangled like shadows in fog. The voice fell silent, the pause stretched, pressed.
+He flinched. Something flickered—a child's voice, "M..."—and cut off. He didn't know whose name. Didn't know if there even was one.
 
-- Nothing scary, - it said finally. - These are just thoughts. They come. They go. But you know they're not yours. Whose then?
+"Shut up."
 
-He hit the table. Cans clinked, the plate with ash overturned. Ash scattered like dust. The voice didn't stop.
+He reached for the dial. Turned it. Click. Silence.
 
-- You can turn me off. Turn the dial. Break the radio. It's just a thing. But you won't do it. Why?
+One second. Two. Three.
 
-He stared at the receiver. His hand reached for the dial, froze. The voice knew. He wouldn't turn it off. Wouldn't break it. Couldn't.
+"Do you remember the smell?"
 
-- I'll stay, - the voice said. - Tomorrow. Day after. Forever. If you want to listen - you'll hear me. And you will want to.
+The radio was speaking. The dial was set to "off."
 
-Rustle. Silence. The radio fell silent. The needle froze. He sat, staring at the antenna, at the crack in the case. At the dusty cord hanging from the table, ending in nothing. The cigarette burned his fingers. He didn't notice.
+"Not gasoline. Something else. Flowers? Perfume? You can almost smell it. Almost."
 
-Like a spiderweb enveloping the room from within, the fog outside the window continued to thicken, becoming matter that could be touched. The room smelled even more of dampness. He reached for the pack, but stopped. Or didn't reach at all. He stood, approached the mirror. The cloth hung in place. He raised his hand, froze. His fingers touched the fabric, unnaturally cold, and it slipped, fell to the floor.
+He grabbed the receiver, hurled it at the wall. The case cracked, the antenna flew off. He stood there, breathing heavily.
 
-In the mirror was no reflection. His reflection. Only the room - table, chair, receiver. And a shadow. Someone else's. It moved, slowly, as if someone stood behind. He turned - nobody. His heart pounded, throat tightened. He returned to the table, collapsed on the chair. His hand reached for the receiver, fingers turned the dial.
+Silence.
 
-Silence. But in it - breathing. Whose? His? Or the voice whispering inside?
+He turned around. The receiver sat on the table. Intact. Antenna in place. Cord hanging, ending in nothing.
 
-But in silence - a rustle. Barely audible, like breathing. Or silence? He closed his eyes. The voice didn't return, but he knew: it's here. In the walls. In the mirror. In him. He no longer checked the lock. Didn't look out the window. Didn't take cigarettes. Only turned the dial, day after day, until the fog swallowed the light, and the voice became his own breathing.
+"Interference on the line," said the voice. "But I'm not going anywhere. Neither are you. Stay on frequency."
+
+---
+
+He tried not to listen.
+
+Plugged his ears—the voice sounded inside. Left the room—the door led back to the room. Screamed—the voice waited until he was out of breath, then continued.
+
+"You checked the lock. Yesterday. The day before. Why? Are you afraid someone will come in? Or that you'll go out?"
+
+He sat on the floor, back against the wall. Cigarettes were gone. Or not gone—the pack lay on the table, but he couldn't make himself get up.
+
+"The mirror. In the corner. Under the cloth. You avoid it."
+
+He didn't look at the corner. Didn't look.
+
+"But you did look. Three days ago. Remember what you saw?"
+
+He remembered. Didn't want to remember, but remembered. The reflection was wrong. Not his face—someone else's. Or his, but different. Younger? Older? He didn't have time to understand—turned away, covered the mirror with the cloth.
+
+"Whose face was that?"
+
+"Mine."
+
+"Are you sure?"
+
+He didn't answer.
+
+---
+
+Days blurred together.
+
+Or not days—he didn't know. The light beyond the window never changed, always the same murky gray. The fog thickened, crept toward the glass. Sometimes it seemed like it was already inside—in the corners, under the ceiling, in his lungs.
+
+The voice spoke. Not always—sometimes it was silent for hours. But when it spoke, it knew too much.
+
+"You're left-handed. But you write with your right. Why?"
+
+He looked at his hands. Didn't remember.
+
+"The scar on your wrist. Where from?"
+
+He looked. A thin white line. Didn't remember.
+
+"You're afraid of water. Can't look at it. Why? Repeat... why?"
+
+He closed his eyes. Something flickered—dark, cold, small hands beneath the water, a red mitten drifting into blackness—and vanished.
+
+"Enough."
+
+"I can tell you. Everything. Who you are. Where you came from. What you did. Stay on frequency."
+
+"I don't want to."
+
+"You're lying."
+
+He was lying.
+
+---
+
+Once he asked:
+
+"What do you want?"
+
+Pause. Long. The voice seemed to think.
+
+"Nothing."
+
+"Then why?"
+
+"Because you listen."
+
+"I don't want to listen."
+
+"But you do. Every time. You could not turn the dial. Could sit in silence. But you turn it. Why?"
+
+He didn't answer. He knew why. Silence was worse. In silence he heard something else—not the voice from the radio, but something inside. A whisper that was both his own and someone else's.
+
+"You're not afraid of me. You're afraid of what you'll hear when I go silent."
+
+---
+
+He approached the mirror.
+
+The cloth hung in place—dirty, damp. He stood before it, hand raised, fingers an inch from the fabric.
+
+"I wouldn't advise it," said the voice. "But you won't listen."
+
+He yanked off the cloth.
+
+The mirror was empty. The room reflected—table, chair, receiver—but he wasn't there. He stood before the mirror and cast no reflection.
+
+And then he saw.
+
+A shadow. In the corner of the reflected room. It moved—slowly, smoothly. Coming closer. He turned around—no one. Looked in the mirror—the shadow closer. Closer still.
+
+He recoiled, stumbled, fell. The mirror stared at him. The shadow stood in the center of the reflection. Where he should have been.
+
+"Recognize it?" asked the voice.
+
+He recognized it. Not the face—there was no face. But something inside recognized. Something that remembered more than he did.
+
+---
+
+He sat on the floor. Back to the mirror. Didn't turn around.
+
+The radio was silent. He didn't turn the dial. Didn't smoke. Just sat.
+
+The fog beyond the window had become a wall. There was no more light—only gray, even, dead.
+
+He raised his hand. Looked at the scar. A thin white line.
+
+Something flickered. Water. Cold. Small fingers clutching his hand. A name—"M..."—and a splash. And silence.
+
+"Did you remember? Repeat... did you remember?"
+
+He didn't answer.
+
+"You can remember everything. If you want. I'll show you."
+
+"No."
+
+"Why?"
+
+He was silent. Then said—quietly, almost a whisper:
+
+"Because then it will become true. And I'll know whose hands those were. Mine or..."
+
+He didn't finish.
+
+"Or whose?" asked the voice. "You know. You've always known."
+
+He didn't answer.
+
+He stood. Walked to the table. Sat in the chair. Placed his hand on the receiver. Fingers touched the dial.
+
+Didn't turn it.
+
+Sat like that—a minute, an hour, an eternity. Hand on the dial. Eyes closed.
+
+The voice waited.
+
+He knew: turn it—and the voice would return. Tell him. Show him. Take what was left.
+
+He didn't turn it.
+
+But he didn't remove his hand either.
+
+The fog beyond the window breathed. The mirror watched his back. The radio was silent.
+
+For now.
+

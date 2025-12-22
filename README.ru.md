@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-9-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-10-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
@@ -132,9 +132,25 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Проект 728-41](proekt_728-41_ru.md) | [English version](project_728-41.md)
+### Проект 728-41 — Трилогия
 
-Существо возрастом четыре миллиарда лет смотрит на голубую планету с орбиты, вспоминая эксперимент, создавший человечество. Они сопротивлялись с первого дня. Они не сдавались никогда. И взгляд одного ребёнка изменил всё.
+Существо возрастом четыре миллиарда лет смотрит на голубую планету с орбиты, вспоминая эксперимент, создавший человечество. Они сопротивлялись с первого дня. Они не сдавались никогда. Три эпохи. Три акта иррационального сопротивления. Один наблюдатель, который больше не может отвернуться.
+
+**Часть I — Начало:** [Русский](proekt_728-41_ru.md) | [English](project_728-41.md)
+**Часть II — Средние века:** [Русский](proekt_728-41_part2_ru.md) | [English](project_728-41_part2.md)
+**Часть III — Карибский кризис:** [Русский](proekt_728-41_part3_ru.md) | [English](project_728-41_part3.md)
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/bad.jpg" alt="Бад" width="100%">
+</td>
+<td width="70%">
+
+### [Бад](bad_ru.md) | [English version](bad.md)
+
+Ветеран войны отказывается убить щенка во время криминальной инициации — и этот отказ определяет всю его жизнь. Через тюрьму, зависимость и потери рядом остаётся один пёс: свидетель его человечности.
 
 </td>
 </tr>
