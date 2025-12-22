@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-10-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-12-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
@@ -132,13 +132,33 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### Проект 728-41 — Трилогия
+### [Проект 728-41: Часть I — Начало](proekt_728-41_ru.md) | [English version](project_728-41.md)
 
-Существо возрастом четыре миллиарда лет смотрит на голубую планету с орбиты, вспоминая эксперимент, создавший человечество. Они сопротивлялись с первого дня. Они не сдавались никогда. Три эпохи. Три акта иррационального сопротивления. Один наблюдатель, который больше не может отвернуться.
+Существо возрастом четыре миллиарда лет смотрит на голубую планету с орбиты, вспоминая эксперимент, создавший человечество. Они сопротивлялись с первого дня. Они не сдавались никогда. И взгляд одного ребёнка изменил всё.
 
-**Часть I — Начало:** [Русский](proekt_728-41_ru.md) | [English](project_728-41.md)
-**Часть II — Средние века:** [Русский](proekt_728-41_part2_ru.md) | [English](project_728-41_part2.md)
-**Часть III — Карибский кризис:** [Русский](proekt_728-41_part3_ru.md) | [English](project_728-41_part3.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/project_728-41.jpg" alt="Проект 728-41" width="100%">
+</td>
+<td width="70%">
+
+### [Проект 728-41: Часть II — Средние века](proekt_728-41_part2_ru.md) | [English version](project_728-41_part2.md)
+
+Тоскана, 1348. Чума ползёт к стенам монастыря. Монах несёт хлеб осуждённому еретику — зная, что сгорит рядом с ним. Наблюдатель записывает это как «нерациональное милосердие». Он не может это классифицировать.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/project_728-41.jpg" alt="Проект 728-41" width="100%">
+</td>
+<td width="70%">
+
+### [Проект 728-41: Часть III — Карибский кризис](proekt_728-41_part3_ru.md) | [English version](project_728-41_part3.md)
+
+Атлантика, 1962. Советская подлодка на глубине 80 метров. Один человек говорит «нет» ядерному пуску. Наблюдатель стоит в трёх метрах. Он не понимает. Он не хочет понимать.
 
 </td>
 </tr>

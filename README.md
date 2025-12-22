@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **English | [Русский](README.ru.md)**
 
-![Stories](https://img.shields.io/badge/Stories-10-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Stories](https://img.shields.io/badge/Stories-12-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
@@ -132,13 +132,33 @@ In a fog-shrouded room, a broken radio begins to speak. The voice knows things i
 </td>
 <td width="70%">
 
-### Project 728-41 — Trilogy
+### [Project 728-41: Part I — The Beginning](project_728-41.md) | [Русская версия](proekt_728-41_ru.md)
 
-A being four billion years old watches a blue planet from orbit, remembering the experiment that created humanity. They resisted from the first day. They never stopped. Three eras. Three acts of irrational defiance. One observer who can no longer look away.
+A being four billion years old watches a blue planet from orbit, remembering the experiment that created humanity. They resisted from the first day. They never stopped. And one child's gaze changed everything.
 
-**Part I — The Beginning:** [English](project_728-41.md) | [Русский](proekt_728-41_ru.md)
-**Part II — The Middle Ages:** [English](project_728-41_part2.md) | [Русский](proekt_728-41_part2_ru.md)
-**Part III — The Cuban Missile Crisis:** [English](project_728-41_part3.md) | [Русский](proekt_728-41_part3_ru.md)
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/project_728-41.jpg" alt="Project 728-41" width="100%">
+</td>
+<td width="70%">
+
+### [Project 728-41: Part II — The Middle Ages](project_728-41_part2.md) | [Русская версия](proekt_728-41_part2_ru.md)
+
+Tuscany, 1348. The plague crawls toward the monastery walls. A monk carries bread to a condemned heretic—knowing he will burn beside him. The observer records it as "irrational mercy." He cannot classify it.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/project_728-41.jpg" alt="Project 728-41" width="100%">
+</td>
+<td width="70%">
+
+### [Project 728-41: Part III — The Cuban Missile Crisis](project_728-41_part3.md) | [Русская версия](proekt_728-41_part3_ru.md)
+
+Atlantic Ocean, 1962. A Soviet submarine at 80 meters depth. One man says "no" to nuclear launch. The observer stands three meters away. He doesn't understand. He doesn't want to understand.
 
 </td>
 </tr>
