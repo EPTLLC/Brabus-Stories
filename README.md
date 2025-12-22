@@ -132,7 +132,7 @@ In a fog-shrouded room, a broken radio begins to speak. The voice knows things i
 </td>
 <td width="70%">
 
-### [Project 728-41: Part I — The Beginning](project_728-41.md) | [Русская версия](proekt_728-41_ru.md)
+### [Project 728-41: Part I — The Beginning](project_728-41_part1.md) | [Русская версия](proekt_728-41_part1_ru.md)
 
 A being four billion years old watches a blue planet from orbit, remembering the experiment that created humanity. They resisted from the first day. They never stopped. And one child's gaze changed everything.
 
