@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-13-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-15-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
@@ -183,6 +183,30 @@ Telegram: https://t.me/easyprotech
 ### [Бад](bad_ru.md) | [English version](bad.md)
 
 Ветеран войны отказывается убить щенка во время криминальной инициации — и этот отказ определяет всю его жизнь. Через тюрьму, зависимость и потери рядом остаётся один пёс: свидетель его человечности.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/homeward.jpg" alt="Домой" width="100%">
+</td>
+<td width="70%">
+
+### [Домой](homeward_ru.md) | [English version](homeward.md)
+
+Солдат ползёт по Йемену, тащит раненого, вызывает огонь на свою позицию. Королева ждёт во дворце, вспоминая Кению, Суэц, Аден. Два мира. Одно слово: дом.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/larisa_pavlovna.jpg" alt="Лариса Павловна" width="100%">
+</td>
+<td width="70%">
+
+### [Лариса Павловна](larisa_pavlovna_ru.md) | [English version](larisa_pavlovna.md)
+
+Пожилой академик боится крупного мужчину в очереди на донецком автовокзале. А потом он достаёт книгу — Камю, «Чума». Начинается разговор. Предубеждение растворяется. Человечность остаётся.
 
 </td>
 </tr>

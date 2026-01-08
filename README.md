@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **English | [Русский](README.ru.md)**
 
-![Stories](https://img.shields.io/badge/Stories-13-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Stories](https://img.shields.io/badge/Stories-15-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
@@ -183,6 +183,30 @@ Atlantic Ocean, 1962. A Soviet submarine at 80 meters depth. One man says "no" t
 ### [Bad](bad.md) | [Русская версия](bad_ru.md)
 
 A war veteran refuses to kill a puppy during a criminal initiation—and that refusal defines his life. Through prison, addiction, and loss, one dog remains: the witness to his humanity.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/homeward.jpg" alt="Homeward" width="100%">
+</td>
+<td width="70%">
+
+### [Homeward](homeward.md) | [Русская версия](homeward_ru.md)
+
+A soldier crawls through Yemen, dragging a wounded comrade, calling fire on his own position. A queen waits at the palace, remembering Kenya, Suez, Aden. Two worlds. One word: home.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/larisa_pavlovna.jpg" alt="Larisa Pavlovna" width="100%">
+</td>
+<td width="70%">
+
+### [Larisa Pavlovna](larisa_pavlovna.md) | [Русская версия](larisa_pavlovna_ru.md)
+
+An elderly academician fears a large man in line at a Donetsk bus station. Then he opens a book—Camus, "The Plague." A conversation begins. Prejudice dissolves. Humanity remains.
 
 </td>
 </tr>
