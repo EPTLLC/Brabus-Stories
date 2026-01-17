@@ -13,9 +13,9 @@ Telegram: https://t.me/easyprotech
 
 Smoke burned his eyes.
 
-Leon crawled through the mud, dragging the boy with him. Torn uniform clung to his body, knees sinking into black muck. The village behind them was burning—crackling, the stench of charred wood, somewhere in the distance screams. Or so it seemed.
+Leon crawled through the mud, dragging the boy with him. Torn uniform clung to his body, knees sinking into black muck. The village behind them was burning-crackling, the stench of charred wood, somewhere in the distance screams. Or so it seemed.
 
-The boy was maybe fourteen. Maybe fifteen. Body twisted, arms unresponsive, legs dragging. Cerebral palsy—Leon had seen cases like this. But this one was alive. Eyes—dark, wet—looked at him, and there was no fear in them. Something else.
+The boy was maybe fourteen. Maybe fifteen. Body twisted, arms unresponsive, legs dragging. Cerebral palsy-Leon had seen cases like this. But this one was alive. Eyes-dark, wet-looked at him, and there was no fear in them. Something else.
 
 The radio crackled.
 
@@ -23,9 +23,9 @@ The radio crackled.
 
 Leon didn't answer. Clenched his teeth. Kept crawling.
 
-The roar of rotors swelled, then began to fade. Dust kicked up, filled his eyes, his mouth. When Leon raised his head—the helicopter was a dot on the horizon.
+The roar of rotors swelled, then began to fade. Dust kicked up, filled his eyes, his mouth. When Leon raised his head-the helicopter was a dot on the horizon.
 
-He lay in the mud, breathing hard. The boy beside him—the same. Looking at him. Fingers trembling, scratching the ground.
+He lay in the mud, breathing hard. The boy beside him-the same. Looking at him. Fingers trembling, scratching the ground.
 
 Leon looked at those fingers. At those eyes.
 
@@ -35,25 +35,25 @@ And remembered.
 
 *American small town. 1984.*
 
-*Parking lot by an abandoned factory. Leon—seventeen, denim jacket, chain around his neck—rips a sheet of paper from Oscar's hands.*
+*Parking lot by an abandoned factory. Leon-seventeen, denim jacket, chain around his neck-rips a sheet of paper from Oscar's hands.*
 
-*Oscar is thin, awkward. Arms move in jerks, head tilted slightly. Cerebral palsy. He was drawing something—pencil on crumpled paper. Now the paper is in Leon's hands.*
+*Oscar is thin, awkward. Arms move in jerks, head tilted slightly. Cerebral palsy. He was drawing something-pencil on crumpled paper. Now the paper is in Leon's hands.*
 
 *"What's this, freak? Art?"*
 
 *The gang laughs. Danny, Marcus, two others. Leon tears the paper in half. Again. Throws it on the asphalt.*
 
-*Oscar looks at the scraps. Reaches for them—slowly, clumsily. Fingers trembling.*
+*Oscar looks at the scraps. Reaches for them-slowly, clumsily. Fingers trembling.*
 
 *Leon kicks the paper. Scraps scatter.*
 
 *"Draw some more, genius!"*
 
-*Laughter. But Oscar doesn't cry. Doesn't scream. Just looks at Leon. Eyes—dark, alive. Unbroken.*
+*Laughter. But Oscar doesn't cry. Doesn't scream. Just looks at Leon. Eyes-dark, alive. Unbroken.*
 
 *Something stung in his chest. Leon turned away and left. The gang followed.*
 
-*He didn't look back. But Oscar's gaze stayed—like a splinter.*
+*He didn't look back. But Oscar's gaze stayed-like a splinter.*
 
 ---
 
@@ -61,9 +61,9 @@ Leon stood up. The boy looked up at him.
 
 "Come on," Leon said. "We have to move."
 
-He tied straps together, rigged something like a harness. Hoisted the boy onto his back. He was light—too light.
+He tied straps together, rigged something like a harness. Hoisted the boy onto his back. He was light-too light.
 
-To the extraction point—a week's journey. Through jungle. With a load that couldn't walk on its own.
+To the extraction point-a week's journey. Through jungle. With a load that couldn't walk on its own.
 
 Leon stepped into the green wall.
 
@@ -83,7 +83,7 @@ The boy froze. Looked at him.
 
 Leon fell silent.
 
-At the rest stop he pulled out the canteen. Water—barely a mouthful left. Handed it to the boy, gestured: a little, small sips.
+At the rest stop he pulled out the canteen. Water-barely a mouthful left. Handed it to the boy, gestured: a little, small sips.
 
 The boy didn't understand. Or couldn't stop. Drank greedily, gulp after gulp, water running down his chin.
 
@@ -101,7 +101,7 @@ He drew. This boy drew.
 
 *Schoolyard. 1983.*
 
-*Leon and the gang surround Oscar by the fence. He squats, scratching pencil on paper. Drawing something—a tree? a house?*
+*Leon and the gang surround Oscar by the fence. He squats, scratching pencil on paper. Drawing something-a tree? a house?*
 
 *Leon grabs the pencil. Snaps it in half. Drops it on the ground.*
 
@@ -115,15 +115,15 @@ He drew. This boy drew.
 
 *"Shut up."*
 
-*Oscar crawls to the pieces. Picks them up. Tries to fit them together—useless.*
+*Oscar crawls to the pieces. Picks them up. Tries to fit them together-useless.*
 
 *Leon watches. Something tightens in his chest. He walks away, suppressing the feeling.*
 
 ---
 
-*Evening. Diner on the corner. Neon sign flickers—"OPEN."*
+*Evening. Diner on the corner. Neon sign flickers-"OPEN."*
 
-*Leon sits on someone's car hood, smoking. Anna comes out of the diner—dark hair, book under her arm. She's a year older, in college.*
+*Leon sits on someone's car hood, smoking. Anna comes out of the diner-dark hair, book under her arm. She's a year older, in college.*
 
 *Leon watches her write something in a notebook.*
 
@@ -139,17 +139,17 @@ He drew. This boy drew.
 
 *"What makes you strong?"*
 
-*He's silent. Doesn't know what to say. She looks at him—calmly, without judgment. And suddenly he feels warm.*
+*He's silent. Doesn't know what to say. She looks at him-calmly, without judgment. And suddenly he feels warm.*
 
 ---
 
 *Childhood. Music school.*
 
-*Leon is eight. He sits at the piano, fingers uncertainly touching keys. His mother is beside him—fragile, fair-haired, with tired eyes and a warm smile.*
+*Leon is eight. He sits at the piano, fingers uncertainly touching keys. His mother is beside him-fragile, fair-haired, with tired eyes and a warm smile.*
 
 *"One more time, Leo. You can do it."*
 
-*He plays. A simple melody—the one she composed for him. Light, like her voice.*
+*He plays. A simple melody-the one she composed for him. Light, like her voice.*
 
 *Mother smiles.*
 
@@ -165,7 +165,7 @@ Dawn.
 
 The boy was still asleep, curled on the ground. Leon got up before light. Tore a piece from his shirt, went to collect dew from broad leaves. Drop by drop. Squeezed into the canteen.
 
-When he returned—the boy was watching him. Silent.
+When he returned-the boy was watching him. Silent.
 
 Leon held out the canteen.
 
@@ -181,7 +181,7 @@ His legs gave out, and he crashed face-first into the dirt. The boy tumbled off 
 
 Leon lay there, breathing hard. No water. No strength. Nothing.
 
-The boy beside him—fingers drawing in the dust. A circle. Lines. Something like a face.
+The boy beside him-fingers drawing in the dust. A circle. Lines. Something like a face.
 
 Leon stared at those lines. Like a ghost. Like Oscar was here, beside him, watching with those living eyes.
 
@@ -193,13 +193,13 @@ He couldn't.
 
 *1985. Fight with a rival gang.*
 
-*Alley behind the warehouses. Dark, only a streetlight at the end. Leon doesn't see the knife—just feels it go into his side. Hot, then cold.*
+*Alley behind the warehouses. Dark, only a streetlight at the end. Leon doesn't see the knife-just feels it go into his side. Hot, then cold.*
 
 *He falls. Asphalt wet, smelling of gasoline and blood. His blood.*
 
 *Shouts. Footsteps. Someone bends over him.*
 
-*Then—sirens. Flashing lights. White ceiling. Surgeon's voice—stern, but warm.*
+*Then-sirens. Flashing lights. White ceiling. Surgeon's voice-stern, but warm.*
 
 *He wakes in a hospital room. Anna is beside him, holding his hand.*
 
@@ -207,7 +207,7 @@ He couldn't.
 
 *He doesn't answer. Doesn't know.*
 
-*Irene, Anna's mother, stands by the window. Adjusts the watch on her wrist—old, with a worn strap.*
+*Irene, Anna's mother, stands by the window. Adjusts the watch on her wrist-old, with a worn strap.*
 
 *"Life isn't a game," she says quietly.*
 
@@ -217,11 +217,11 @@ He couldn't.
 
 *Hospital lobby. Night.*
 
-*Leon wanders the corridors—can't sleep, the stitches pull. In the corner of the lobby—an old piano, dusty, out of tune.*
+*Leon wanders the corridors-can't sleep, the stitches pull. In the corner of the lobby-an old piano, dusty, out of tune.*
 
 *He sits. Touches the keys. His fingers remember on their own.*
 
-*Mother's piece. Simple, alive. He plays—hesitantly at first, then with more confidence. The melody fills the lobby.*
+*Mother's piece. Simple, alive. He plays-hesitantly at first, then with more confidence. The melody fills the lobby.*
 
 *Nurses freeze. Someone peers out of a room.*
 
@@ -237,13 +237,13 @@ He couldn't.
 
 *Oscar squats, drawing with chalk on the asphalt. A house. A tree. A sun.*
 
-*Leon walks up. Kicks the chalk—white dust scatters, the drawing smears.*
+*Leon walks up. Kicks the chalk-white dust scatters, the drawing smears.*
 
 *"You're not normal. Why bother?"*
 
 *Oscar looks at him. Silent. Then picks up another chalk. Starts drawing again.*
 
-*The gang laughs. But Leon doesn't. Watches Oscar draw—stubborn, silent, not giving up.*
+*The gang laughs. But Leon doesn't. Watches Oscar draw-stubborn, silent, not giving up.*
 
 *Walks away. Something aches in his chest.*
 
@@ -251,9 +251,9 @@ He couldn't.
 
 Dawn.
 
-Leon collected water. Same ritual—dew from leaves, drop by drop.
+Leon collected water. Same ritual-dew from leaves, drop by drop.
 
-Returned to camp. The boy was awake—watching him.
+Returned to camp. The boy was awake-watching him.
 
 Leon sat beside him.
 
@@ -265,15 +265,15 @@ Leon sat beside him.
 
 Night. The fire was dying, embers glowing red.
 
-Leon sat propped against a rock. The boy beside him, wrapped in his jacket. Breathing weak, uneven. Fingers still scratching the ground—even in sleep.
+Leon sat propped against a rock. The boy beside him, wrapped in his jacket. Breathing weak, uneven. Fingers still scratching the ground-even in sleep.
 
 Leon looked at the drawing the boy had scratched that day. Lines, a circle, something like a face. Just like Oscar's. Exactly the same.
 
-He pulled an envelope from his pocket. Crumpled, dirty. Inside—a letter he'd written many years ago. And a photograph.
+He pulled an envelope from his pocket. Crumpled, dirty. Inside-a letter he'd written many years ago. And a photograph.
 
-The scar on his side ached—old wound, reminder.
+The scar on his side ached-old wound, reminder.
 
-Images washed over him. Torn drawing on asphalt. Broken pencil. Smeared chalk. Oscar's eyes—alive, unbroken.
+Images washed over him. Torn drawing on asphalt. Broken pencil. Smeared chalk. Oscar's eyes-alive, unbroken.
 
 Leon clenched his fist. Nails dug into palm.
 
@@ -281,7 +281,7 @@ Leon clenched his fist. Nails dug into palm.
 
 The boy flinched in his sleep. Fingers drew a circle in the dust. A face.
 
-Somewhere in his head, his mother's melody flared—and faded.
+Somewhere in his head, his mother's melody flared-and faded.
 
 ---
 
@@ -289,7 +289,7 @@ Somewhere in his head, his mother's melody flared—and faded.
 
 *Leon stands at the door, holding a bouquet and a box of chocolates. Stupid, he doesn't even know why he bought them. Anna invited him: "Mom wants to meet you."*
 
-*From the open car window on the street, the radio crackles—The Smiths, "How Soon Is Now?" Guitars trembling like his nerves.*
+*From the open car window on the street, the radio crackles-The Smiths, "How Soon Is Now?" Guitars trembling like his nerves.*
 
 *He rings the bell.*
 
@@ -299,7 +299,7 @@ Somewhere in his head, his mother's melody flared—and faded.
 
 *Oscar.*
 
-*He stands in the doorway—pencil in hand, chalk on his shirt. Looks at Leon. Eyes—the same. Alive. No judgment.*
+*He stands in the doorway-pencil in hand, chalk on his shirt. Looks at Leon. Eyes-the same. Alive. No judgment.*
 
 *Leon freezes. In his head a flash: asphalt, torn paper, the gang's laughter.*
 
@@ -307,9 +307,9 @@ Somewhere in his head, his mother's melody flared—and faded.
 
 *"He told them," Leon thinks. "They know. Everyone knows."*
 
-*His throat tightens. He sets the bouquet on the floor. Chocolates on top. Turns. Walks away—almost running.*
+*His throat tightens. He sets the bouquet on the floor. Chocolates on top. Turns. Walks away-almost running.*
 
-*Oscar watches him go. Then—at the flowers. His fingers hover over them, like back then, over the scraps of drawing.*
+*Oscar watches him go. Then-at the flowers. His fingers hover over them, like back then, over the scraps of drawing.*
 
 *He doesn't smile. But he doesn't close the door either.*
 
@@ -337,11 +337,11 @@ Somewhere in his head, his mother's melody flared—and faded.
 
 *"You don't have to run."*
 
-*She pulls a photograph from her bag. A photo booth shot—she's smiling, eyes shining.*
+*She pulls a photograph from her bag. A photo booth shot-she's smiling, eyes shining.*
 
 *"Don't forget."*
 
-*Leon takes it. Puts it in his pocket. Looks at her—long, silent.*
+*Leon takes it. Puts it in his pocket. Looks at her-long, silent.*
 
 *Then walks away.*
 
@@ -349,7 +349,7 @@ Somewhere in his head, his mother's melody flared—and faded.
 
 *Father's apartment. Empty, dusty.*
 
-*Leon stands in the middle of the room. Bottles on the floor. In the corner—a piano, closed, covered in dust. Father died a week ago. Heart. Or alcohol. What difference does it make.*
+*Leon stands in the middle of the room. Bottles on the floor. In the corner-a piano, closed, covered in dust. Father died a week ago. Heart. Or alcohol. What difference does it make.*
 
 *Leon pulls out Anna's photograph. Looks at her smile.*
 
@@ -371,7 +371,7 @@ Leon collected water. Returned.
 
 The boy was awake, watching him. Leon handed him the canteen.
 
-For the first time in days he smiled—really smiled, watching the boy drink eagerly.
+For the first time in days he smiled-really smiled, watching the boy drink eagerly.
 
 "That's it. Good job."
 
@@ -389,7 +389,7 @@ Marines jumped out, ran toward him.
 
 "Load up! Move!"
 
-Medics grabbed the boy. Leon let go—and their eyes met. The boy looked at him. Fingers clutching the scrap of paper with the drawing.
+Medics grabbed the boy. Leon let go-and their eyes met. The boy looked at him. Fingers clutching the scrap of paper with the drawing.
 
 Leon squeezed his hand. A second. Two.
 
@@ -401,15 +401,15 @@ Ryan, the senior marine, clapped him on the shoulder.
 
 "You did it, Leo. Damn hero."
 
-Leon didn't answer. Turned—something glinted on the hill, in the distance.
+Leon didn't answer. Turned-something glinted on the hill, in the distance.
 
 Gunshot.
 
-He didn't hear it. Just—impact in his back, and the ground fell away.
+He didn't hear it. Just-impact in his back, and the ground fell away.
 
-He was falling, and images flashed: Oscar looking at the flowers by the door. Anna saying: "You don't have to run." Mother stroking his head, the piano playing—her piece, light as her voice.
+He was falling, and images flashed: Oscar looking at the flowers by the door. Anna saying: "You don't have to run." Mother stroking his head, the piano playing-her piece, light as her voice.
 
-Then—darkness.
+Then-darkness.
 
 ---
 
@@ -417,7 +417,7 @@ Then—darkness.
 
 Night. Chaos.
 
-Stretchers, shouts, footsteps. Anna—in medical scrubs, hair loosely tied back, face tired—bent over a teenager. He was conscious, looking at her. In his hand—a scrap of paper.
+Stretchers, shouts, footsteps. Anna-in medical scrubs, hair loosely tied back, face tired-bent over a teenager. He was conscious, looking at her. In his hand-a scrap of paper.
 
 She took the drawing. Lines, a circle, a face. Something familiar.
 
@@ -427,7 +427,7 @@ Anna nodded. Turned to the next stretcher. Pulled back the sheet.
 
 Leon.
 
-Eyes closed. Face calm. On his lips—the shadow of a smile.
+Eyes closed. Face calm. On his lips-the shadow of a smile.
 
 She froze.
 
@@ -439,11 +439,11 @@ Anna took the envelope. Opened it.
 
 A piece of paper. One word: "Forgive."
 
-And a photograph. Her—smiling, eyes shining. Photo booth. Edges bent, paper worn.
+And a photograph. Her-smiling, eyes shining. Photo booth. Edges bent, paper worn.
 
 He had kept it all these years.
 
-Anna stood holding the envelope. The watch on her wrist ticked—the same one, her mother's.
+Anna stood holding the envelope. The watch on her wrist ticked-the same one, her mother's.
 
 Inside, everything went quiet.
 
@@ -451,9 +451,9 @@ Inside, everything went quiet.
 
 ## Epilogue
 
-The drawing hangs in the hospital corridor. Lines, a circle, a face. Beside it—a photograph of Leon. He's smiling—easily, almost shyly.
+The drawing hangs in the hospital corridor. Lines, a circle, a face. Beside it-a photograph of Leon. He's smiling-easily, almost shyly.
 
-Below the photograph—a plaque. Name. Dates. And one word:
+Below the photograph-a plaque. Name. Dates. And one word:
 
 "Forgive."
 
@@ -461,7 +461,7 @@ Anna walks past every day. Sometimes she stops. Looks.
 
 The clock ticks.
 
-Inside—silence. But not empty. Warm.
+Inside-silence. But not empty. Warm.
 
 Like his mother's piece, the one he played that night in the hospital lobby.
 
@@ -469,11 +469,11 @@ Like his mother's piece, the one he played that night in the hospital lobby.
 
 *American small town. One year later.*
 
-*Sun through the window. Living room. An old piano by the wall—the same one, from his father's apartment.*
+*Sun through the window. Living room. An old piano by the wall-the same one, from his father's apartment.*
 
-*Anna plays. Fingers touch the keys—uncertain, but right. Mother's piece. The one Leon played in the hospital lobby. She learned it. For him. After him.*
+*Anna plays. Fingers touch the keys-uncertain, but right. Mother's piece. The one Leon played in the hospital lobby. She learned it. For him. After him.*
 
-*At the table by the window—two of them. Shoulder to shoulder.*
+*At the table by the window-two of them. Shoulder to shoulder.*
 
 *Oscar. The boy from the jungle.*
 
@@ -481,9 +481,9 @@ Like his mother's piece, the one he played that night in the hospital lobby.
 
 *Oscar doesn't look at his drawing. Just draws beside him. Like he once drew alone.*
 
-*On the wall—framed—that same scrap. Lines, a circle, a face. Next to it—Leon's photograph.*
+*On the wall-framed-that same scrap. Lines, a circle, a face. Next to it-Leon's photograph.*
 
-*The melody flows—simple, light, alive.*
+*The melody flows-simple, light, alive.*
 
 *The boy raises his head. Listens. Then bends over the paper again.*
 
@@ -491,7 +491,7 @@ Like his mother's piece, the one he played that night in the hospital lobby.
 
 *The piano sounds.*
 
-*Light falls on the drawings—new ones, not yet finished.*
+*Light falls on the drawings-new ones, not yet finished.*
 
 *The circle is complete.*
 

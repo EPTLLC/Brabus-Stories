@@ -11,11 +11,11 @@ Telegram: https://t.me/easyprotech
 
 He walked along the path where just yesterday grass whispered in the wind, brushing his boots with soft fingers. Now it lay flattened, black with soot, as if the earth itself had suffocated.
 
-The air was heavy, soaked with smoke and something acrid—like the echo of a distant scream. His footsteps crunched on charred branches, and every sound tore through the silence, too loud in this dead world.
+The air was heavy, soaked with smoke and something acrid-like the echo of a distant scream. His footsteps crunched on charred branches, and every sound tore through the silence, too loud in this dead world.
 
-He adjusted the strap of his bag. Inside—a crust of bread and a letter. A letter for Mara. He had carried it for three days.
+He adjusted the strap of his bag. Inside-a crust of bread and a letter. A letter for Mara. He had carried it for three days.
 
-He imagined her laugh—loud, like a bell. Eyes squinting in the sun. But there was no sun. The sky pressed down gray, and something cold and sharp grew in his chest, like a shard of glass.
+He imagined her laugh-loud, like a bell. Eyes squinting in the sun. But there was no sun. The sky pressed down gray, and something cold and sharp grew in his chest, like a shard of glass.
 
 ---
 
@@ -25,15 +25,15 @@ He had known it since childhood: crooked roofs, smoke from chimneys, laughter fr
 
 Now there was neither smoke nor laughter.
 
-Only wind driving dust down the empty road. Somewhere in the distance a shutter creaked, beating against a wall—like a heart that refuses to stop.
+Only wind driving dust down the empty road. Somewhere in the distance a shutter creaked, beating against a wall-like a heart that refuses to stop.
 
 ---
 
 He stopped at the first house.
 
-The door hung on one hinge, as if someone had clung to it until the very end. Inside—shadows, shards of dishes, an overturned bench. On the table sat a bowl of porridge covered with gray film, as if forgotten forever.
+The door hung on one hinge, as if someone had clung to it until the very end. Inside-shadows, shards of dishes, an overturned bench. On the table sat a bowl of porridge covered with gray film, as if forgotten forever.
 
-On the wall—a burned mark. A circle with three lines, like claws.
+On the wall-a burned mark. A circle with three lines, like claws.
 
 His heart clenched. He didn't know what it was. But he felt: this wasn't just fire.
 
@@ -45,7 +45,7 @@ In the square, where people once sang and danced, now lay the wreckage of a cart
 
 He looked away.
 
-His eyes searched for something familiar—a face, a voice, a trace. But found only hoofprints pressed into mud, and long furrows, as if someone had dragged something heavy. Or someone.
+His eyes searched for something familiar-a face, a voice, a trace. But found only hoofprints pressed into mud, and long furrows, as if someone had dragged something heavy. Or someone.
 
 He gripped the bag strap until his fingers went white.
 
@@ -55,7 +55,7 @@ He gripped the bag strap until his fingers went white.
 
 Her house stood at the edge of the village. The porch where she read his letters, face turned to the sun. "You write like old Yon talks," she would tease. "All about the road and the stars."
 
-The porch was empty. The door—wide open. Inside—the same chaos: overturned table, broken window, ash on the floor.
+The porch was empty. The door-wide open. Inside-the same chaos: overturned table, broken window, ash on the floor.
 
 He stood on the threshold, not daring to enter.
 
@@ -63,7 +63,7 @@ Then he entered.
 
 On the floor, by the stove, lay an envelope. He picked it up. His hands trembled.
 
-On the envelope—his name. Her handwriting. Letters slightly uneven, as if she had been hurrying. The envelope itself was strangely clean amid the soot and debris—as if she had just set it down, meaning to finish writing.
+On the envelope-his name. Her handwriting. Letters slightly uneven, as if she had been hurrying. The envelope itself was strangely clean amid the soot and debris-as if she had just set it down, meaning to finish writing.
 
 He opened the envelope.
 
@@ -77,7 +77,7 @@ He stood holding the empty envelope, and the silence pressed on his shoulders li
 
 He walked out to the square.
 
-Sat on a stone—still warm, as if holding someone's warmth. On the fence across hung a child's mitten, burned on one edge. It swayed in the wind, as if waving goodbye.
+Sat on a stone-still warm, as if holding someone's warmth. On the fence across hung a child's mitten, burned on one edge. It swayed in the wind, as if waving goodbye.
 
 He closed his eyes.
 
@@ -89,11 +89,11 @@ The silence wrapped around him like a shroud. He felt it seeping into him, filli
 
 He stood up.
 
-Took his letter from the bag—folded in four, crumpled from the journey. Placed it on the stone. Weighed it down with a shard of roof tile so the wind wouldn't carry it away.
+Took his letter from the bag-folded in four, crumpled from the journey. Placed it on the stone. Weighed it down with a shard of roof tile so the wind wouldn't carry it away.
 
 A letter she would never read.
 
-The envelope—her envelope, empty, with his name—he folded and tucked into his pocket, close to his heart.
+The envelope-her envelope, empty, with his name-he folded and tucked into his pocket, close to his heart.
 
 Words she would never write.
 
@@ -105,7 +105,7 @@ The path led into the forest.
 
 He walked until the crunch of branches gave way to the rustle of leaves. Silence followed, but he didn't stop.
 
-Somewhere ahead, beyond the trees, light flickered—or so it seemed.
+Somewhere ahead, beyond the trees, light flickered-or so it seemed.
 
 He stepped toward it, not knowing what awaited.
 

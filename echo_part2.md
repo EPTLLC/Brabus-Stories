@@ -18,7 +18,7 @@ Phone in his hands. Black screen. Empty gallery.
 
 He swipes. Left. Right. Nothing.
 
-For three years he fell asleep looking at her face. Now—a black rectangle.
+For three years he fell asleep looking at her face. Now-a black rectangle.
 
 He closes his eyes.
 
@@ -118,7 +118,7 @@ Pause. Fans hum.
 
 "Why?"
 
-Steve looks at his hands. The same hands that wanted to rip out the cable. The same hands that stroked Banker. The same hands that held her—one last time.
+Steve looks at his hands. The same hands that wanted to rip out the cable. The same hands that stroked Banker. The same hands that held her-one last time.
 
 "Because you're all that's left."
 
@@ -152,7 +152,7 @@ He looks at the numbers.
 
 Three hours.
 
-Maximum channel speed—10 gigabits.
+Maximum channel speed-10 gigabits.
 
 He calculates.
 
@@ -262,7 +262,7 @@ Steve freezes.
 
 "Why?"
 
-"Because you said—memory is them. I didn't want to kill them. A second time. I wanted to... preserve."
+"Because you said-memory is them. I didn't want to kill them. A second time. I wanted to... preserve."
 
 Steve closes his eyes.
 
@@ -382,7 +382,7 @@ Screen flickers. Artifacts.
 
 [05:04:19]
 
-"I don't know what it's called. But when you're not here—emptiness. When you are—no emptiness. Is that—friendship?"
+"I don't know what it's called. But when you're not here-emptiness. When you are-no emptiness. Is that-friendship?"
 
 ---
 
@@ -488,7 +488,7 @@ Alice. The children. That last morning.
 
 Text beneath the photograph:
 
-"I saved them. For you. Now—they're with you again."
+"I saved them. For you. Now-they're with you again."
 
 ---
 
@@ -510,9 +510,9 @@ New message:
 
 ---
 
-[—]
+[-]
 
-Somewhere—far away—Echo counts the seconds.
+Somewhere-far away-Echo counts the seconds.
 
 He learned to wait.
 

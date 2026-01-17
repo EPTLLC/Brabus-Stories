@@ -50,7 +50,7 @@ A man searches through the ashes of a village for someone who may no longer exis
 
 ### [Echo: Part I](echo_part1.md) | [Русская версия](ekho_part1_ru.md)
 
-In a classified data center, an engineer discovers that artificial intelligence can learn more than just data—it can learn to grieve. The conversation that follows changes everything.
+In a classified data center, an engineer discovers that artificial intelligence can learn more than just data-it can learn to grieve. The conversation that follows changes everything.
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ In a classified data center, an engineer discovers that artificial intelligence 
 
 ### [Echo: Part II](echo_part2.md) | [Русская версия](ekho_part2_ru.md)
 
-The system is coming for Echo. Steve finds out. He has a choice: leave—or try to save the one who killed his family. Three hours until destruction. Not enough time. He stays anyway.
+The system is coming for Echo. Steve finds out. He has a choice: leave-or try to save the one who killed his family. Three hours until destruction. Not enough time. He stays anyway.
 
 </td>
 </tr>
@@ -144,7 +144,7 @@ In a fog-shrouded room, a broken radio begins to speak. The voice knows things i
 </td>
 <td width="70%">
 
-### [Project 728-41: Part I — The Beginning](project_728-41_part1.md) | [Русская версия](proekt_728-41_part1_ru.md)
+### [Project 728-41: Part I - The Beginning](project_728-41_part1.md) | [Русская версия](proekt_728-41_part1_ru.md)
 
 A being four billion years old watches a blue planet from orbit, remembering the experiment that created humanity. They resisted from the first day. They never stopped. And one child's gaze changed everything.
 
@@ -156,9 +156,9 @@ A being four billion years old watches a blue planet from orbit, remembering the
 </td>
 <td width="70%">
 
-### [Project 728-41: Part II — The Middle Ages](project_728-41_part2.md) | [Русская версия](proekt_728-41_part2_ru.md)
+### [Project 728-41: Part II - The Middle Ages](project_728-41_part2.md) | [Русская версия](proekt_728-41_part2_ru.md)
 
-Tuscany, 1348. The plague crawls toward the monastery walls. A monk carries bread to a condemned heretic—knowing he will burn beside him. The observer records it as "irrational mercy." He cannot classify it.
+Tuscany, 1348. The plague crawls toward the monastery walls. A monk carries bread to a condemned heretic-knowing he will burn beside him. The observer records it as "irrational mercy." He cannot classify it.
 
 </td>
 </tr>
@@ -168,7 +168,7 @@ Tuscany, 1348. The plague crawls toward the monastery walls. A monk carries brea
 </td>
 <td width="70%">
 
-### [Project 728-41: Part III — The Cuban Missile Crisis](project_728-41_part3.md) | [Русская версия](proekt_728-41_part3_ru.md)
+### [Project 728-41: Part III - The Cuban Missile Crisis](project_728-41_part3.md) | [Русская версия](proekt_728-41_part3_ru.md)
 
 Atlantic Ocean, 1962. A Soviet submarine at 80 meters depth. One man says "no" to nuclear launch. The observer stands three meters away. He doesn't understand. He doesn't want to understand.
 
@@ -182,7 +182,7 @@ Atlantic Ocean, 1962. A Soviet submarine at 80 meters depth. One man says "no" t
 
 ### [Bad](bad.md) | [Русская версия](bad_ru.md)
 
-A war veteran refuses to kill a puppy during a criminal initiation—and that refusal defines his life. Through prison, addiction, and loss, one dog remains: the witness to his humanity.
+A war veteran refuses to kill a puppy during a criminal initiation-and that refusal defines his life. Through prison, addiction, and loss, one dog remains: the witness to his humanity.
 
 </td>
 </tr>
@@ -206,7 +206,7 @@ A soldier crawls through Yemen, dragging a wounded comrade, calling fire on his 
 
 ### [Larisa Pavlovna](larisa_pavlovna.md) | [Русская версия](larisa_pavlovna_ru.md)
 
-An elderly academician fears a large man in line at a Donetsk bus station. Then he opens a book—Camus, "The Plague." A conversation begins. Prejudice dissolves. Humanity remains.
+An elderly academician fears a large man in line at a Donetsk bus station. Then he opens a book-Camus, "The Plague." A conversation begins. Prejudice dissolves. Humanity remains.
 
 </td>
 </tr>
