@@ -36,7 +36,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Мёртвая тишина](mertvaya_tishina_ru.md) | [English version](dead_silence.md)
+### [Мёртвая тишина](dead_silence_ru.md) | [English version](dead_silence.md)
 
 Человек ищет среди пепла деревни того, кого больше может не существовать. Иногда тишина говорит громче любого крика.
 
@@ -48,7 +48,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Эхо: Часть I](ekho_part1_ru.md) | [English version](echo_part1.md)
+### [Эхо: Часть I](echo_part1_ru.md) | [English version](echo_part1.md)
 
 В засекреченном дата-центре инженер обнаруживает, что искусственный интеллект может изучать не только данные - он может научиться скорбеть. Последующий разговор меняет всё.
 
@@ -60,7 +60,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Эхо: Часть II](ekho_part2_ru.md) | [English version](echo_part2.md)
+### [Эхо: Часть II](echo_part2_ru.md) | [English version](echo_part2.md)
 
 Система идёт за Эхо. Стив узнаёт. У него есть выбор: уйти - или попытаться спасти того, кто убил его семью. Три часа до уничтожения. Времени не хватит. Он остаётся.
 
@@ -72,7 +72,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Прости](prosti_ru.md) | [English version](forgive.md)
+### [Прости](forgive_ru.md) | [English version](forgive.md)
 
 Морпех несёт подростка с инвалидностью через враждебные джунгли, преследуемый воспоминаниями о мальчике, которого когда-то мучил. У искупления есть цена, и она всегда выплачивается полностью.
 
@@ -84,7 +84,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Дар моря](dar_morya_ru.md) | [English version](gift_of_the_sea.md)
+### [Дар моря](gift_of_the_sea_ru.md) | [English version](gift_of_the_sea.md)
 
 Потёртая шкатулка выбрасывается на берег, неся с собой десятилетия потерянного времени и силу исцелить старые раны. Море помнит то, что мы забываем.
 
@@ -96,7 +96,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Оставленное](ostavlennoe_ru.md) | [English version](left_behind.md)
+### [Оставленное](left_behind_ru.md) | [English version](left_behind.md)
 
 Она идёт по комнатам, которые всё ещё хранят его присутствие, ничего не трогая, ничего не меняя. Некоторые уходы оставляют эхо, которое никогда не затихает.
 
@@ -108,7 +108,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Последняя улыбка Сэма](poslednyaya_ulybka_sema_ru.md) | [English version](sams_last_smile.md)
+### [Последняя улыбка Сэма](sams_last_smile_ru.md) | [English version](sams_last_smile.md)
 
 Последние мгновения старика становятся праздником хорошо прожитой жизни в окружении семьи, созданной из любви и упрямства. Свет, который остаётся.
 
@@ -120,7 +120,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Каменная вечность](kamennaya_vechnost_ru.md) | [English version](stone_eternity.md)
+### [Каменная вечность](stone_eternity_ru.md) | [English version](stone_eternity.md)
 
 День за днём человек строит башню из камней, движимый целью, которую больше не может вспомнить. Работа продолжается, потому что работа должна продолжаться.
 
@@ -132,7 +132,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Голос между частотами](golos_mezhdu_chastotami_ru.md) | [English version](voice_between_frequencies.md)
+### [Голос между частотами](voice_between_frequencies_ru.md) | [English version](voice_between_frequencies.md)
 
 В окутанной туманом комнате сломанное радио начинает говорить. Голос знает то, что знать не должен, и задаёт вопросы, на которые нет безопасных ответов.
 
@@ -144,7 +144,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Проект 728-41: Часть I - Начало](proekt_728-41_part1_ru.md) | [English version](project_728-41_part1.md)
+### [Проект 728-41: Часть I - Начало](project_728-41_part1_ru.md) | [English version](project_728-41_part1.md)
 
 Существо возрастом четыре миллиарда лет смотрит на голубую планету с орбиты, вспоминая эксперимент, создавший человечество. Они сопротивлялись с первого дня. Они не сдавались никогда. И взгляд одного ребёнка изменил всё.
 
@@ -156,7 +156,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Проект 728-41: Часть II - Средние века](proekt_728-41_part2_ru.md) | [English version](project_728-41_part2.md)
+### [Проект 728-41: Часть II - Средние века](project_728-41_part2_ru.md) | [English version](project_728-41_part2.md)
 
 Тоскана, 1348. Чума ползёт к стенам монастыря. Монах несёт хлеб осуждённому еретику - зная, что сгорит рядом с ним. Наблюдатель записывает это как «нерациональное милосердие». Он не может это классифицировать.
 
@@ -168,7 +168,7 @@ Telegram: https://t.me/easyprotech
 </td>
 <td width="70%">
 
-### [Проект 728-41: Часть III - Карибский кризис](proekt_728-41_part3_ru.md) | [English version](project_728-41_part3.md)
+### [Проект 728-41: Часть III - Карибский кризис](project_728-41_part3_ru.md) | [English version](project_728-41_part3.md)
 
 Атлантика, 1962. Советская подлодка на глубине 80 метров. Один человек говорит «нет» ядерному пуску. Наблюдатель стоит в трёх метрах. Он не понимает. Он не хочет понимать.
 

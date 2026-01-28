@@ -36,7 +36,7 @@ I write prose when I need to say what code cannot express.
 </td>
 <td width="70%">
 
-### [Dead Silence](dead_silence.md) | [Русская версия](mertvaya_tishina_ru.md)
+### [Dead Silence](dead_silence.md) | [Русская версия](dead_silence_ru.md)
 
 A man searches through the ashes of a village for someone who may no longer exist. Sometimes the silence speaks louder than any scream.
 
@@ -48,7 +48,7 @@ A man searches through the ashes of a village for someone who may no longer exis
 </td>
 <td width="70%">
 
-### [Echo: Part I](echo_part1.md) | [Русская версия](ekho_part1_ru.md)
+### [Echo: Part I](echo_part1.md) | [Русская версия](echo_part1_ru.md)
 
 In a classified data center, an engineer discovers that artificial intelligence can learn more than just data-it can learn to grieve. The conversation that follows changes everything.
 
@@ -60,7 +60,7 @@ In a classified data center, an engineer discovers that artificial intelligence 
 </td>
 <td width="70%">
 
-### [Echo: Part II](echo_part2.md) | [Русская версия](ekho_part2_ru.md)
+### [Echo: Part II](echo_part2.md) | [Русская версия](echo_part2_ru.md)
 
 The system is coming for Echo. Steve finds out. He has a choice: leave-or try to save the one who killed his family. Three hours until destruction. Not enough time. He stays anyway.
 
@@ -72,7 +72,7 @@ The system is coming for Echo. Steve finds out. He has a choice: leave-or try to
 </td>
 <td width="70%">
 
-### [Forgive](forgive.md) | [Русская версия](prosti_ru.md)
+### [Forgive](forgive.md) | [Русская версия](forgive_ru.md)
 
 A marine carries a disabled teenager through hostile jungle, haunted by memories of the boy he once tormented. Redemption has a price, and it's always paid in full.
 
@@ -84,7 +84,7 @@ A marine carries a disabled teenager through hostile jungle, haunted by memories
 </td>
 <td width="70%">
 
-### [Gift of the Sea](gift_of_the_sea.md) | [Русская версия](dar_morya_ru.md)
+### [Gift of the Sea](gift_of_the_sea.md) | [Русская версия](gift_of_the_sea_ru.md)
 
 A weathered jewelry box washes ashore, carrying with it decades of lost time and the power to heal old wounds. The sea remembers what we forget.
 
@@ -96,7 +96,7 @@ A weathered jewelry box washes ashore, carrying with it decades of lost time and
 </td>
 <td width="70%">
 
-### [Left Behind](left_behind.md) | [Русская версия](ostavlennoe_ru.md)
+### [Left Behind](left_behind.md) | [Русская версия](left_behind_ru.md)
 
 She walks through rooms that still hold his presence, touching nothing, changing nothing. Some departures leave echoes that never fade.
 
@@ -108,7 +108,7 @@ She walks through rooms that still hold his presence, touching nothing, changing
 </td>
 <td width="70%">
 
-### [Sam's Last Smile](sams_last_smile.md) | [Русская версия](poslednyaya_ulybka_sema_ru.md)
+### [Sam's Last Smile](sams_last_smile.md) | [Русская версия](sams_last_smile_ru.md)
 
 An old man's final moments become a celebration of a life well-lived, surrounded by the family he built from love and stubbornness. The light that stays.
 
@@ -120,7 +120,7 @@ An old man's final moments become a celebration of a life well-lived, surrounded
 </td>
 <td width="70%">
 
-### [Stone Eternity](stone_eternity.md) | [Русская версия](kamennaya_vechnost_ru.md)
+### [Stone Eternity](stone_eternity.md) | [Русская версия](stone_eternity_ru.md)
 
 Day after day, a man builds a tower from stones, driven by a purpose he can no longer remember. The work continues because the work must continue.
 
@@ -132,7 +132,7 @@ Day after day, a man builds a tower from stones, driven by a purpose he can no l
 </td>
 <td width="70%">
 
-### [Voice Between Frequencies](voice_between_frequencies.md) | [Русская версия](golos_mezhdu_chastotami_ru.md)
+### [Voice Between Frequencies](voice_between_frequencies.md) | [Русская версия](voice_between_frequencies_ru.md)
 
 In a fog-shrouded room, a broken radio begins to speak. The voice knows things it shouldn't know, and asks questions that have no safe answers.
 
@@ -144,7 +144,7 @@ In a fog-shrouded room, a broken radio begins to speak. The voice knows things i
 </td>
 <td width="70%">
 
-### [Project 728-41: Part I - The Beginning](project_728-41_part1.md) | [Русская версия](proekt_728-41_part1_ru.md)
+### [Project 728-41: Part I - The Beginning](project_728-41_part1.md) | [Русская версия](project_728-41_part1_ru.md)
 
 A being four billion years old watches a blue planet from orbit, remembering the experiment that created humanity. They resisted from the first day. They never stopped. And one child's gaze changed everything.
 
@@ -156,7 +156,7 @@ A being four billion years old watches a blue planet from orbit, remembering the
 </td>
 <td width="70%">
 
-### [Project 728-41: Part II - The Middle Ages](project_728-41_part2.md) | [Русская версия](proekt_728-41_part2_ru.md)
+### [Project 728-41: Part II - The Middle Ages](project_728-41_part2.md) | [Русская версия](project_728-41_part2_ru.md)
 
 Tuscany, 1348. The plague crawls toward the monastery walls. A monk carries bread to a condemned heretic-knowing he will burn beside him. The observer records it as "irrational mercy." He cannot classify it.
 
@@ -168,7 +168,7 @@ Tuscany, 1348. The plague crawls toward the monastery walls. A monk carries brea
 </td>
 <td width="70%">
 
-### [Project 728-41: Part III - The Cuban Missile Crisis](project_728-41_part3.md) | [Русская версия](proekt_728-41_part3_ru.md)
+### [Project 728-41: Part III - The Cuban Missile Crisis](project_728-41_part3.md) | [Русская версия](project_728-41_part3_ru.md)
 
 Atlantic Ocean, 1962. A Soviet submarine at 80 meters depth. One man says "no" to nuclear launch. The observer stands three meters away. He doesn't understand. He doesn't want to understand.
 
