@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-15-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-16-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
@@ -207,6 +207,18 @@ Telegram: https://t.me/easyprotech
 ### [Лариса Павловна](larisa_pavlovna_ru.md) | [English version](larisa_pavlovna.md)
 
 Пожилой академик боится крупного мужчину в очереди на донецком автовокзале. А потом он достаёт книгу - Камю, «Чума». Начинается разговор. Предубеждение растворяется. Человечность остаётся.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/own.png" alt="Своих не бросаем" width="100%">
+</td>
+<td width="70%">
+
+### [Своих не бросаем](own_ru.md) | [English version](own.md)
+
+Молодой санитар в психиатрической больнице хранит тайну: он ветеран. Старик с Альцгеймером больше не помнит своего имени - но помнит, что своих не бросают. Два жетона. Одна правда.
 
 </td>
 </tr>
